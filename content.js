@@ -135,7 +135,7 @@ window.onload = async function() {
   const CodeMirrorStyleDefaults = await document.createElement("style");
   CodeMirrorStyleDefaults.setAttribute("id", "CodeMirrorStyleDefaults");
   CodeMirrorStyleDefaults.innerHTML =
-    ".CodeMirror-linenumber{padding:0 3px 0 5px!important;min-width:20px!important;text-align:right!important;white-space:nowrap!important;font-size:13px!important}.CodeMirror-linenumber{-moz-box-sizing:content-box!important;box-sizing:content-box!important}";
+    ".CodeMirror-linenumber{padding:0 3px 0 5px!important;min-width:20px!important;text-align:right!important;white-space:nowrap!important;font-size:13px!important}.CodeMirror-linenumber{-moz-box-sizing:content-box!important;box-sizing:content-box!important}.theme-cosmos,.theme-sugar{--variable-shim-matching-bracket-highlight:transparent !important;}";
   body.appendChild(CodeMirrorStyleDefaults);
   if (!(await JSON.parse(window.localStorage.getItem("gd-style")))) {
     await window.localStorage.setItem("gd-style", JSON.stringify(themeData[0]));
