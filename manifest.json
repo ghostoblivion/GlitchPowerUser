@@ -1,0 +1,11 @@
+{
+    "name": "Glitch Power User",
+    "version": "0.0.2",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["https://glitch.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
