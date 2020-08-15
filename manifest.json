@@ -1,6 +1,7 @@
 {
     "name": "Glitch Power User",
-    "version": "0.0.2",
+    "version": "0.0.3",
+    "description": "Glitch Power User enhances your Glitch experience.  Customize the editor with themes galore.",
     "manifest_version": 2,
     "content_scripts": [
         {
