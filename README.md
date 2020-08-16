@@ -2,11 +2,13 @@
 
 Glitch Power User allows you to customize the Glitch Editor.
 
-Glitch Power User currently has almost 20 themes, with more due to be added when I get time.
+Glitch Power User currently has well over 40 themes, with more due to be added when I get time.
 
 ![](https://cdn.discordapp.com/attachments/700907262515871818/744031859255803934/Screenshot_2020-08-15_at_15.15.45.png)
 ![](https://cdn.discordapp.com/attachments/700907262515871818/744031857808506890/Screenshot_2020-08-15_at_15.16.07.png)
 ![](https://cdn.discordapp.com/attachments/700907262515871818/744031866314686464/Screenshot_2020-08-15_at_15.15.30.png)
+
+There are some extremely popular themes installed, such as Monokai, Material, Dracula, Nord & Darcula.
 
 ## Usage Instructions
 To use Glitch Power User
