@@ -7,6 +7,9 @@ Glitch Power User currently has well over 40 themes, with more due to be added w
 ![](https://cdn.discordapp.com/attachments/700907262515871818/744031859255803934/Screenshot_2020-08-15_at_15.15.45.png)
 ![](https://cdn.discordapp.com/attachments/700907262515871818/744031857808506890/Screenshot_2020-08-15_at_15.16.07.png)
 ![](https://cdn.discordapp.com/attachments/700907262515871818/744031866314686464/Screenshot_2020-08-15_at_15.15.30.png)
+![](https://cdn.discordapp.com/attachments/700907262515871818/744735347266682910/Screenshot_2020-08-17_at_13.50.51.png)
+![](https://cdn.discordapp.com/attachments/700907262515871818/744735344829792366/Screenshot_2020-08-17_at_13.51.05.png)
+![](https://cdn.discordapp.com/attachments/700907262515871818/744735343840067624/Screenshot_2020-08-17_at_13.51.33.png)
 
 There are some extremely popular themes installed, such as Monokai, Material, Dracula, Nord & Darcula.
 
