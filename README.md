@@ -22,3 +22,6 @@ To use Glitch Power User
 4. Load the unpacked Glitch Power User files to your browsers extension page (on chrome it's as simple as clicking the "Load Unpacked" button)
 5. Head to the Glitch Editor (if you already have a tab open reload) and click the "Editor Settings" button (wait for the page to load lol)
 6. Choose your theme!
+
+## Help, Support & Bugs
+If you need help with the extension or you've found a bug, feel free to open an issue or contect me on the [Ghost Development Discord Server](https://discord.gg/7Umrdsx).
