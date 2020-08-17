@@ -24,4 +24,4 @@ To use Glitch Power User
 6. Choose your theme!
 
 ## Help, Support & Bugs
-If you need help with the extension or you've found a bug, feel free to open an issue or contect me on the [Ghost Development Discord Server](https://discord.gg/7Umrdsx).
+If you need help with the extension or you've found a bug, feel free to open an issue or contact me on the [Ghost Development Discord Server](https://discord.gg/7Umrdsx).
