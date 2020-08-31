@@ -25,3 +25,9 @@ To use Glitch Power User
 
 ## Help, Support & Bugs
 If you need help with the extension or you've found a bug, feel free to open an issue or contact me on the [Ghost Development Discord Server](https://discord.gg/7Umrdsx).
+
+## Planned Features
+1. Add an option to modify the entire interface, rather than just the codemirror instance.
+2. Export/import settings
+3. Theme builder
+4. Your idea here!  Feel free to add a suggestion.
